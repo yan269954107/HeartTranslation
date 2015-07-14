@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">新译</string>
+    <string name="app_description">用新译,用心译</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="sign_out">完全退出</string>
+
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+
+    <string name="dict_name_default">朗道英汉字典</string>
+
+    <string name="notify_content_title">时刻翻译您复制的内容</string>
+    
+    <string name="null_prompt">对不起,未查到对应单词</string>
+
+    <string name="author_name">author : angelo</string>
+    <string name="author_email">angeloyxw@gmail.com</string>
+
+    <string name="nav_setting">设置</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_explain_dialog">ExplainDialogActivity</string>
+</resources>

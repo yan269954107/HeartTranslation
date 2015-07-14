@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_left_tips">18dp</dimen>
+    <dimen name="margin_default">8dp</dimen>
+    <dimen name="margin_double">16dp</dimen>
+    <dimen name="margin_app_name_bottom">56dp</dimen>
+
+    <dimen name="margin_header">28dp</dimen>
+
+    <dimen name="padding_default">8dp</dimen>
+
+    <dimen name="size_tips_word">30sp</dimen>
+    <dimen name="size_tips_explain">18sp</dimen>
+    <dimen name="size_app_name">16sp</dimen>
+    <dimen name="size_splash_app_name">48sp</dimen>
+    <dimen name="size_splash_app_description">24sp</dimen>
+
+    
+    <dimen name="radius_default">8dp</dimen>
+
+    <dimen name="header_height">180dp</dimen>
+
+</resources>
